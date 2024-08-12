@@ -319,3 +319,7 @@ button a{
 }
 
 
+.lastSection{
+    border:solid rgb(154, 37, 169);
+    height:20px;
+}
