@@ -124,27 +124,7 @@ button a{
  justify-content: center;
 }
 
-.item{
-    text-align: center;
-}
-.items{
-    display: grid;
-    grid-template-columns: repeat(3,1fr);
-    padding: 30px 20px;
-    grid-column-gap: 20px;
-    grid-row-gap: 30px;
-}
 
-.item img:hover{
-    transform: scale(1.03);
-}
-
-
-
-
-.item button:hover{
-    transform: scale(1.03);
-}
 
 
 @media screen and (min-width: 400px) {
@@ -285,7 +265,7 @@ button a{
     width: 300px;
     margin: 5vh auto 0 auto;
     padding: 20px;
-    background-color: rgb(175, 111, 29);
+    background-color: rgb(78, 192, 227);
     border-radius: 4px;
     font-size: 12px;
     text-align: center;
@@ -318,3 +298,5 @@ button a{
     border:solid rgb(154, 37, 169);
     height:20px;
 }
+
+
