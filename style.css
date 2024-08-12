@@ -89,12 +89,7 @@ li{
 
 }
 
-li a{
-    color: white;
-    font-size: 18px;
-    font-weight: bold;
-    margin-right: 25ox;
-}
+
 
 button{
     background-color: rgb(255, 255, 255);
@@ -289,3 +284,5 @@ button a{
   h1{
     text-align: center;
   }
+
+  
