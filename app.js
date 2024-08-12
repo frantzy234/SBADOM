@@ -5,6 +5,14 @@ const launchPrompt = () => {
 };
 
 
+const serviceText = document.getElementById('serviceText');
+
+serviceText.addEventListener('click', () => {
+    serviceText.style.color = "blue";
+
+});
+
+
 
 const clickText = document.getElementById('clickText');
 
@@ -12,6 +20,7 @@ clickText.addEventListener('click', () => {
     clickText.style.color = "red";
 
 });
+
 
 
 
@@ -27,3 +36,4 @@ function like(){
     oneLike.setAttribute("disabled", true);
     oneLike.textContent = "Credited 👍";
 }
+
