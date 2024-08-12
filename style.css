@@ -288,11 +288,12 @@ button a{
   
   form{
     width: 300px;
-    margin: 20vh auto 0 auto;
+    margin: 5vh auto 0 auto;
     padding: 20px;
     background-color: rgb(175, 111, 29);
     border-radius: 4px;
     font-size: 12px;
+    text-align: center;
   }
 
   form h1 {
@@ -303,3 +304,18 @@ button a{
  
  p{text-align: center;
 }
+
+.formInput{
+    display: flex;
+    flex-direction: column;
+}
+
+.formInput input{
+    border: 2px solid black;
+    border-radius: 4px;
+    display: block;
+    font-size: 12px;
+    width: 100%;
+}
+
+
