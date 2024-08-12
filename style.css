@@ -211,8 +211,8 @@ button a{
   .centerButton {
     margin: 0;
     position: absolute;
-    top: 50%;
-    left: 50%;
+    top: 0%;
+    left: 46.5%;
   }
 
   .icons-container{
@@ -265,14 +265,14 @@ button a{
     width: 300px;
     margin: 5vh auto 0 auto;
     padding: 20px;
-    background-color: rgb(78, 192, 227);
+    background-color: #b6d0fd;
     border-radius: 4px;
     font-size: 12px;
     text-align: center;
   }
 
   form h1 {
-    color: #40707f;
+    color: #000000;
     text-align: center;
   }
 
