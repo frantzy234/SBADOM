@@ -127,40 +127,66 @@ d
 
 
     <div class="aboutUs">
-        <h1 id="clickText">About Us</h1>
+        <h1 id="clickText">Wash Club Registration</h1>
+        <p>Please enter your information below</p>
     </div>
 
-</div>
+
+
+
+
+
+
 
 <div class="formContainer">
 
-    <h1>Wash Club Registration</h1>
-    <p>Please enter your information below</p>
+  
+    
 
 
 
     <form id="registration">
-        <input name="username"
+
+        <h1>Registration</h1>
+        <div class="formInput">
+        <input name="username" required
         type="text"
         placeholder="Username" />
         <span class="formIcon"></span>
+        <div class="error"></div>
+        </div>
 
+
+        <div class="formInput">
         <input name="email"
         type="text"
         placeholder="Email" />
-        <span class="formIcon">Email:</span>
-
-        <input name="password"
-        type="text"
-        placeholder="Password" />
-        <span class="formIcon">Password</span>
-
-    </form>
+        <span class="formIcon"></span>
+        <div class="error"></div>
+        </div>
         
+       
+
+        <div class="formInput">
+            <input name="password"
+            type="text"
+            placeholder="Password" />
+            <span class="formIcon"></span>
+            <div class="error"></div>
+            </div>
+            
+
+      
+
+    
+        <input
+            name="password2"
+            type="text"
+            placeholder="Repeat Password"
+          />
+          <input type="submit" value="Register" />
+
     </form>
-
-
-</div>
     
 
         

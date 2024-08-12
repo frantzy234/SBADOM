@@ -16,6 +16,3 @@ clickText.addEventListener('click', () => {
 
 
 
-
-
-
