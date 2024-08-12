@@ -42,4 +42,3 @@ function like(){
 function backButton(){
     window.history.back();
 };
-console.log backButton()

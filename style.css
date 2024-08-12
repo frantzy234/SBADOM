@@ -127,11 +127,11 @@ button a{
 
 
 
-@media screen and (min-width: 400px) {
+@media screen and (min-width: 500px) {
     
   }
   
-  @media screen and (min-width: 800px) {
+  @media screen and (min-width: 900px) {
    
   }
 
@@ -186,7 +186,7 @@ button a{
     height:5vh;
     border-radius:2.5px;
     font-family:'Courier New', Courier, monospace;
-    background-color:#9ed2ff;
+    background-color:#5b91c0;
     padding:2em;
     color:rgb(255, 255, 255);
     font-size:20px;
@@ -238,14 +238,14 @@ button a{
 
 
   .icons-container .icons img{
-    height: 5rem;
+    height: 7rem;
     margin-right: 2rem;
   }
 
   .icons-container h3{
     color: black;
     padding-bottom: .5rem;
-    font-size: 1.5rem;
+    font-size: 2rem;
   }
 
   .icons-container span{
