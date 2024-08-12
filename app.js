@@ -37,3 +37,9 @@ function like(){
     oneLike.textContent = "Credited 👍";
 }
 
+
+//Not working
+function backButton(){
+    window.history.back();
+};
+console.log backButton()
