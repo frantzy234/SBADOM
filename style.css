@@ -1,5 +1,5 @@
 body{
-    background-color: #ebcaca;
+    background-color: #7cacff;
     margin: 0;
 }
 
@@ -182,11 +182,11 @@ button a{
 
 
 .screen{
-    border:solid  rgb(37, 133, 184);
+    border:solid  rgb(67, 180, 241);
     height:5vh;
-    border-radius:25px;
+    border-radius:2.5px;
     font-family:'Courier New', Courier, monospace;
-    background-color:#40707f;
+    background-color:#9ed2ff;
     padding:2em;
     color:rgb(255, 255, 255);
     font-size:20px;
